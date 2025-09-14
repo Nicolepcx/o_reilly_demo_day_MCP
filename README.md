@@ -107,15 +107,10 @@ The system will:
 
 ## Example Output
 
+![exmaple_output.png](resources%2Fexmaple_output.png)
+
+
 ```plaintext
-
-[Step 1] score=0.905 tests_ok=True rt=1.509 contract=sequence growth=1 note=all tests passed
-[Step 2] score=0.905 tests_ok=True rt=2.875 contract=sequence growth=1 note=all tests passed
-[Step 3] score=0.905 tests_ok=True rt=2.031 contract=sequence growth=1 note=all tests passed
-[Step 4] score=0.942 tests_ok=True rt=1.337 contract=sequence growth=1 note=all tests passed
-[Step 5] score=0.942 tests_ok=True rt=2.282 contract=sequence growth=1 note=all tests passed
-Final Best Answer score=0.942
-
 Best answer
 
 ```python
