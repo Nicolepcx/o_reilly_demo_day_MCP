@@ -1,3 +1,5 @@
+![OReilly_logo_rgb.png](resources%2FOReilly_logo_rgb.png) 
+
 # MCP + MCTS Coding Agents
 
 This repository contains the code and Docker setup for the **O’Reilly Demo Day** session:
