@@ -54,8 +54,8 @@ This makes MCP an excellent fit for **multi-agent systems** where reasoning agen
 Your `.env` file should look like this:
 
 ```bash
-OPENAI_API_KEY="sk-..."
-OPENAI_MODEL="gpt-4o"
+OPENAI_API_KEY=sk-...
+OPENAI_MODEL=gpt-4o
 ```
 
 ---
